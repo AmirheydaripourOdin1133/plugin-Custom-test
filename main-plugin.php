@@ -11,6 +11,4 @@
  * License:           GPL v2 or later
  * Text Domain:       پلاگین اختصاصی وردپرس - نسخه یک
  */
-
-
 ?>

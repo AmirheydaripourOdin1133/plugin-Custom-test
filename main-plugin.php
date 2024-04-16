@@ -10,7 +10,6 @@
  * Author URI:        https://github.com/AmirheydaripourOdin1133
  * License:           GPL v2 or later
  * Text Domain:       پلاگین اختصاصی وردپرس - نسخه یک
- * Domain Path:       /languages
  */
 
 
